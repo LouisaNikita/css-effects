@@ -11,3 +11,7 @@ A collect for CSS effects
 #### 3D折叠效果 
 [3D折叠效果demo](http://codepen.io/LouisaNikita/pen/GWGWZK)
 
+
+#### 公告滚动条
+[公告滚动条效果demo](http://codepen.io/LouisaNikita/pen/gmKRpj)
+
