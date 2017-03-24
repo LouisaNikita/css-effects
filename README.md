@@ -14,4 +14,4 @@ A collect for CSS effects
 
 #### 公告滚动条
 [公告滚动条效果demo](http://codepen.io/LouisaNikita/pen/gmKRpj)
-##### 注意点:公告总长度 > 2倍滚动条长度
+###### 注意点:公告总长度 > 2倍滚动条长度
